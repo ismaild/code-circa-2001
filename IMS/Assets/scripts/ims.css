@@ -1,0 +1,10 @@
+a {  font-family: Geneva, Arial, Helvetica, san-serif; font-size: 10px; color: #003399; font-weight: normal; text-decoration: none}
+a:link {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #660066; text-decoration: none}
+a:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #FF0000; text-decoration: underline}
+a:visited {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: #666666; text-decoration: none}
+.Box {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; background-color: #000066; background-image: url(../images/blueback.gif); color: #FFFFFF; border: #660066 solid; border-width: thick thin thin}
+.BoxNB { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; background-image: none; color: #000000; border: #660066 solid; border-width: thick thin thin ; background-color: #FFFFFF}
+.Content {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; padding-top: 5px; padding-right: 5px; border: #660066 solid; border-width: thick thin thin; padding-bottom: 5px; padding-left: 5px}
+.LinksList { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000; padding-top: 5px; padding-right: 5px; border: #CCCCCC none; border-width: thick thin thin; padding-bottom: 5px; padding-left: 5px }
+BODY {SCROLLBAR-FACE-COLOR: #660066; SCROLLBAR-HIGHLIGHT-COLOR: #660066; SCROLLBAR-SHADOW-COLOR: #999999; SCROLLBAR-3DLIGHT-COLOR: #FFFFFF; SCROLLBAR-ARROW-COLOR:  #FFFFFF; SCROLLBAR-TRACK-COLOR: #660066; SCROLLBAR-DARKSHADOW-COLOR: #666666; }.fields {  font-family: Geneva, Arial, Helvetica, san-serif; color: #FFFFFF; background-color: #000066; font-size: 11px; font-weight: bold; border: thin #999999 solid}
+.BoxNOB { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; background-image: none; color: #000000; border: #660066 none; border-width: thick thin thin ; background-color: #FFFFFF }

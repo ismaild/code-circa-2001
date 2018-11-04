@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_BannersRS" value="name:BannerID;datatype:INTEGER,name:Image;datatype:LONGCHAR,name:URL;datatype:LONGCHAR,name:Shown;datatype:INTEGER,name:Clicked;datatype:INTEGER" />
+</info>
